@@ -1,3 +1,5 @@
+package com.javarush.jru;
+
 public class Greeting{
 	@Override
 	public String toString(){return """
