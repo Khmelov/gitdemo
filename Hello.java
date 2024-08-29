@@ -1,6 +1,6 @@
 public class Hello {
 	public static void main(String... arg){
-		//add class for greating
-		System.out.println("Hello world!");
+		var message=new Greeting();
+		System.out.println(message);
 	}
 }
